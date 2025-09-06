@@ -16,4 +16,4 @@ Me apasiona crear sistemas robustos, automatizar procesos y construir APIs efici
 - [Juegos mentales](https://github.com/Jacjaram/python-project-140) – Juego mentales interactivo 
 
 ## 📫 Contacto
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) 
