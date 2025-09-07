@@ -17,7 +17,7 @@ Me apasiona crear sistemas robustos, automatizar procesos y construir APIs efici
 
 ## 📂 Proyectos destacados
 
-### [Gendiff](https://github.com/Jacjaram/python-project-174)
+### [Calculadora de diferencias](https://github.com/Jacjaram/python-project-174)
 Herramienta CLI para comparar archivos JSON/YAML y mostrar diferencias de manera clara.
 
 ### [Juegos Mentales](https://github.com/Jacjaram/python-project-140)
